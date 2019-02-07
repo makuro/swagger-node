@@ -12,8 +12,8 @@
   "node":true,
   "indent":2,
   "expr":true,
+  "esversion": 6,
   "globals"   : {
-    /* MOCHA */
     "describe"   : false,
     "it"         : false,
     "before"     : false,
