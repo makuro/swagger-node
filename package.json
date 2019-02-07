@@ -1,6 +1,6 @@
 {
   "name": "swagger-node-bi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Forked from the swagger-command line with updated dependencies.",
   "keywords": [
     "swagger",
